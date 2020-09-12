@@ -1,1 +1,2 @@
-# hello, i am helveticatoast, a github user
+# HelveticaToast
+Hello! Most of my repositories are private, so you won't see much here.
