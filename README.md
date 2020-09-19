@@ -1,2 +1,2 @@
 # HelveticaToast
-Hello! Most of my repositories are private, so you won't see much here.
+hello im helveticatoast welcome to my github profile.
